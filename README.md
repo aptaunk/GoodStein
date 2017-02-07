@@ -6,7 +6,7 @@ How to run:
 2. Download GoodStein.java
 3. In terminal, change directory to wherever the file is downloaded
 4. type: javac GoodStein.java
-5. type: java GoodStein n
+5. type: java GoodStein N M
 
-Note: you can replace n with any integer you wish and it should print out the first few terms of the GoodStein sequence starting with n
+You can replace N and M with any integer. N is the starting number in the GoodStein sequence and M is the number of terms you want to output.
 
